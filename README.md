@@ -1,5 +1,7 @@
 # PrivTag: Low-Power Lost Device System
 
+Mauricio Serrano & Sumukh Murthy
+
 PrivTag is an energy-efficient, event-driven system designed to assist in locating lost devices.  
 By integrating low-power timers, stop mode, and Bluetooth Low Energy (BLE), it achieves a system clock of 1 MHz while disabling non-essential peripherals.  
 This design reduces power consumption to approximately 87 μA during idle periods and around 150 μA during BLE transmission, allowing the device to operate between ~55.6 to ~95.8 days on a single charge.  
